@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a href="" class="logo">GedgetMu</a>
+        <div class="navbar">
+            <ul>
+                <li><a href="postest2.html">home</a></li>
+                <li><a href="#">merk </a></li>
+                <li><a href="#">contact</a></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <main>
+        <div class="content">
+           <h3 class="about-title">About Me</h3>
+           <div class="about-me">
+                <img src= "image/OIP.jpg" alt="" width="250px">
+                <p>Nama         : Mira Sartika Lengkong</p>
+                <p>NIM          : 2009106039</p>
+                <p>Prodi        : Informatika</p>
+                <p>Angkatan     : 2020</p>
+                <p>Hobi         : Makan</p>
+
+            <div>
+           
+        </div>
+
+    </main>
+
+    <footer>
+        <div class="footer-logo">
+            <p>@CopyRight Mira 2022</p>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
